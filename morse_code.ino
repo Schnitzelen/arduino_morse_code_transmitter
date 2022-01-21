@@ -1,7 +1,7 @@
 # define ledPin 13 // internal activity led
 int timeUnit = 150; // milliseconds
 String msgString; // string to contain received message
-int msgLength; // variable to hold 
+int msgLength; // number of signs in message
 
 void setup() {
   // setup serial
